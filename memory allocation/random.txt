@@ -1,0 +1,1 @@
+When growing memory like this, it’s common to double the space needed at each step
